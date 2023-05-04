@@ -31,3 +31,6 @@ print("Here is a puzzle.")
 what = add(age, subtract(height, multiply(weight, divide(iq, 2))))  # -4391
 
 print("That becomes: ", what, "Can you do it by hand?")
+
+drill = subtract((add(24, multiply(34, 100))), 1023)
+print(drill)
