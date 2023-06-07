@@ -1882,3 +1882,8 @@ venv/lib/python3.10/site-packages/werkzeug/wrappers/__pycache__/response.cpython
 projects/gothonweb/gothonweb/__pycache__/__init__.cpython-310.pyc
 projects/gothonweb/tests/__pycache__/__init__.cpython-310.pyc
 projects/gothonweb/tests/__pycache__/NAME_test.cpython-310-pytest-7.3.1.pyc
+projects/gothonweb/gothonweb/__pycache__/app.cpython-310.pyc
+projects/gothonweb/gothonweb/__pycache__/form_test.cpython-310-pytest-7.3.1.pyc
+projects/gothonweb/gothonweb/__pycache__/planisphere.cpython-310.pyc
+projects/gothonweb/tests/__pycache__/app_test.cpython-310-pytest-7.3.1.pyc
+projects/gothonweb/tests/__pycache__/planisphere_test.cpython-310-pytest-7.3.1.pyc
